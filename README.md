@@ -77,7 +77,6 @@ Planned improvements for system expansion:
 
 <p align="center">
   <img src="https://github.com/Manoranjitham61217/Personality_Finder/blob/main/assets/input_ui.png" src="https://github.com/user-attachments/assets/6c12674c-fa06-44d3-b7b2-ef1eb4eb7d92" />
-" alt="Personality Finder Input Page" width="600">
 </p>
 
 Users adjust the slider-based personality feature values.
@@ -87,8 +86,7 @@ Users adjust the slider-based personality feature values.
 ### 🎯 Prediction Page
 
 <p align="center">
-  <img src="" src="https://github.com/user-attachments/assets/eef0fb05-f0de-40b5-840a-4ac0a3851ef5" />
-" alt="Prediction Result Page" width="600">
+  <img src="https://github.com/Manoranjitham61217/Personality_Finder/blob/main/assets/prediction.png" src="https://github.com/user-attachments/assets/eef0fb05-f0de-40b5-840a-4ac0a3851ef5" />
 </p>
 
 Once submitted, the model predicts the personality type and displays a short description.
