@@ -56,28 +56,31 @@ The system includes preprocessing, feature selection, model training, evaluation
 
 This system can be used in multiple real-world applications such as:
 
-🧑‍💼 HR Screening to understand candidates' behavior patterns
-
-🤖 Chatbot Personalization for tailoring conversations
-
-🎓 Educational Tools to recommend learning styles
-
-🎮 Game Character Personalization based on user traits
-
-📊 Research & Behavioral Analytics for psychology studies
+-HR Screening to understand candidates' behavior patterns
+-Chatbot Personalization for tailoring conversations
+-Educational Tools to recommend learning styles
+-Game Character Personalization based on user traits
+-Research & Behavioral Analytics for psychology studies
 
 ## 🚀 Future Enhancements
 
 Planned improvements for system expansion:
+-Add Advanced Models (Decision Trees, Random Forest, or Deep Learning)
+-Use Real-World Personality Datasets (MBTI, Big Five, etc.)
+-Build a User-Friendly Interface for Inputs
+-Develop a Mobile App Version
+---
+## 🖼️ Project Preview
 
-🌐 Deploy as a Web Application (Streamlit/Flask)
+Below is a quick look at the interface and workflow of the Airline Satisfaction Prediction System.
 
-🤖 Add Advanced Models (Decision Trees, Random Forest, or Deep Learning)
+### 📌 Streamlit App UI
 
-🔍 Use Real-World Personality Datasets (MBTI, Big Five, etc.)
 
-🎛 Build a User-Friendly Interface for Inputs
+---
 
-📊 Add Model Performance Metrics (Accuracy, Precision, Recall Dashboard)
+### 📌 Sample Prediction Output
 
-📱 Develop a Mobile App Version
+
+
+---
