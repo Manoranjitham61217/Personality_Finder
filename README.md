@@ -76,7 +76,7 @@ Planned improvements for system expansion:
 ### 🧠 Streamlit UI – Input Page
 
 <p align="center">
-  <img src="<img width="1918" height="1017" alt="Screenshot 2025-11-28 154114" src="https://github.com/user-attachments/assets/6c12674c-fa06-44d3-b7b2-ef1eb4eb7d92" />
+  <img src="https://github.com/Manoranjitham61217/Personality_Finder/blob/main/assets/input_ui.png" src="https://github.com/user-attachments/assets/6c12674c-fa06-44d3-b7b2-ef1eb4eb7d92" />
 " alt="Personality Finder Input Page" width="600">
 </p>
 
@@ -87,7 +87,7 @@ Users adjust the slider-based personality feature values.
 ### 🎯 Prediction Page
 
 <p align="center">
-  <img src="<img width="1919" height="912" alt="Screenshot 2025-11-28 154152" src="https://github.com/user-attachments/assets/eef0fb05-f0de-40b5-840a-4ac0a3851ef5" />
+  <img src="" src="https://github.com/user-attachments/assets/eef0fb05-f0de-40b5-840a-4ac0a3851ef5" />
 " alt="Prediction Result Page" width="600">
 </p>
 
