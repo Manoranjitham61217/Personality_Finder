@@ -29,7 +29,7 @@ The system includes preprocessing, feature selection, model training, evaluation
 
 | Model | Status | Accuracy |
 |--------|--------|----------|
-| Logistic Regression | ✔ Final Selected Model | *(Add Accuracy Value)%* |
+| Logistic Regression | ✔ Final Selected Model | *98%* |
 
 ---
 
