@@ -70,16 +70,28 @@ Planned improvements for system expansion:
 - Develop a Mobile App Version
 
 ---
-## 🖼️ Project Preview
 
-Below is a quick look at the interface and workflow of the Airline Satisfaction Prediction System.
+## 🖥 App Preview
 
-### 📌 Streamlit App UI
+### 🧠 Streamlit UI – Input Page
 
+<p align="center">
+  <img src="<img width="1918" height="1017" alt="Screenshot 2025-11-28 154114" src="https://github.com/user-attachments/assets/6c12674c-fa06-44d3-b7b2-ef1eb4eb7d92" />
+" alt="Personality Finder Input Page" width="600">
+</p>
+
+Users adjust the slider-based personality feature values.
 
 ---
 
-### 📌 Sample Prediction Output
+### 🎯 Prediction Page
+
+<p align="center">
+  <img src="<img width="1919" height="912" alt="Screenshot 2025-11-28 154152" src="https://github.com/user-attachments/assets/eef0fb05-f0de-40b5-840a-4ac0a3851ef5" />
+" alt="Prediction Result Page" width="600">
+</p>
+
+Once submitted, the model predicts the personality type and displays a short description.
 
 
 
